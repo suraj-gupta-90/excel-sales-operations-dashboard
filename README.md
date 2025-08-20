@@ -1,4 +1,4 @@
-# excel-sales-operations-dashboard
+# Excel-Sales-Operations-Dashboard
 Excel-based Sales & Operations Dashboard with data analysis and visualization.
 # 📊 Excel Sales & Operations Dashboard
 
